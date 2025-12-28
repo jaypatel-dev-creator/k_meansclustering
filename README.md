@@ -18,7 +18,7 @@ The main objective of this project is to:
 
 ##  Dataset Information
 **Source:** Kaggle – Mall Customers Dataset  
-**Link:**https://www.kaggle.com/datasets/abdallahwagih/mall-customers-segmentation
+**Link:** https://www.kaggle.com/datasets/abdallahwagih/mall-customers-segmentation
 
 **Key Features Used:**
 - `Age`
@@ -123,7 +123,6 @@ provides a good balance between cluster compactness and separation.
 ##  Future Enhancements
 - Include demographic attributes such as gender and age groups
 - Apply advanced clustering techniques (DBSCAN, Hierarchical Clustering)
-- Perform RFM (Recency, Frequency, Monetary) analysis
 - Build an interactive dashboard for real-time insights
 
 ---
